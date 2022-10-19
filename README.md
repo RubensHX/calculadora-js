@@ -1,2 +1,1 @@
-# calculadora-js
-Created with CodeSandbox
+# Calculadora feita com HTML, CSS e JavaScript
